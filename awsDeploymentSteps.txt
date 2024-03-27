@@ -1,0 +1,5 @@
+## Steps to deploy project in elastic beanstack
+
+1) Add project to git repo branch
+2) Create folder in project with name .ebextensions
+3) create file "python.config" in this folder
