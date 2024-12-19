@@ -1,0 +1,12 @@
+
+## Types of deep learning 
+1) ANN - Artificial neural network
+    a. classification 
+    b. Regression
+2) CNN - Convolution neural network
+    - Input data will be in the form of images & video frames 
+3) RNN - recurrent neural network 
+    - used for NLP , if input in form of text , timeseries data
+    - word embedding , LSTM RNN , GRU RNN , Bidirectional LSTM RNN , encoder & decoder , transformers & Bert 
+    - Framework : tensorflow (Goodle) , Pytorch (FB)
+    
